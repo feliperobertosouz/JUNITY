@@ -28,7 +28,7 @@ Para utilizar a JUNITY CALCULADORA, siga os passos abaixo:
    int resultadoDivisao = calculadora.divisao(20, 4);
 
 ## Obter Ajuda
-Se você tiver alguma dúvida ou precisar de assistência com o uso da JUNITY CALCULADORA, sinta-se à vontade para entrar em contato conosco. Você pode encontrar informações de contato em nosso site oficial ou em nossa página de projeto no [GitHub](link-do-seu-repositorio).
+Se você tiver alguma dúvida ou precisar de assistência com o uso da JUNITY CALCULADORA, sinta-se à vontade para entrar em contato conosco. 
 
 Estamos disponíveis para ajudá-lo com qualquer problema ou dúvida que possa surgir durante o uso da calculadora.
 
